@@ -1,4 +1,4 @@
 function Hourse(){
 
 }
-module.exports = Hourse
+module.exports = Hourse;
